@@ -1,0 +1,5 @@
+﻿  read_grammer.c
+c:\users\sungh\source\repos\read_grammer\read_grammer\read_grammer.c(234): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sungh\source\repos\read_grammer\read_grammer\read_grammer.c(267): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sungh\source\repos\read_grammer\read_grammer\read_grammer.c(298): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  Read_grammer.vcxproj -> C:\Users\sungh\source\repos\Read_grammer\Debug\Read_grammer.exe
