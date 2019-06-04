@@ -48,7 +48,7 @@ int main() {
 	int i, j;
 	sym a_nonterminal = { 1,0 };
 
-	read_grammer("G_case1.txt");
+	read_grammer("Grammar_Data.txt");
 	strcpy(Terminals_list[MaxTerminal].str, "epsilon");
 	/*
 	printf("NonTerminal : ");

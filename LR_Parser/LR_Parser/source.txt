@@ -1,0 +1,3 @@
+if (a+b) then  b = 30;
+c = (21+xx) * sum;
+while (d * e) do k = 26 + cal
