@@ -1,0 +1,3 @@
+   if ( u < tmp && ( v >= val  || x <= cnt ) ) 
+     then   y = z 
+     else z = 12.5
