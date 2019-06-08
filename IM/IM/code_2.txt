@@ -1,0 +1,16 @@
+prog_start:
+if u < tmp goto lbl_002
+goto lbl_001
+lbl_002:
+if v >= val goto lbl_000
+goto lbl_003
+lbl_003:
+if x <= cnt goto lbl_000
+goto lbl_001
+lbl_000:
+y = z
+goto prog_end
+lbl_001:
+t_000 = 12.5
+z = t_000
+prog_end:

@@ -1,0 +1,7 @@
+  while ( a > b )  do
+     { b = 10 + b ; p = (56 - 89 )* y   }  ;
+  ab = v1 + sum ;
+  w = 34 * pp ;
+   if ( u < tmp ) 
+     then   u = a 
+     else  u = b

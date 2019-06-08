@@ -1,0 +1,30 @@
+prog_start:
+if a > b goto lbl_003
+goto lbl_002
+lbl_003:
+t_001 = 10
+t_000 = t_001 + b
+b = t_000
+lbl_004:
+t_004 = 56
+t_005 = 89
+t_003 = t_004 - t_005
+t_002 = t_003 * y
+p = t_002
+goto prog_start
+lbl_002:
+t_006 = v1 + sum
+ab = t_006
+lbl_001:
+t_008 = 34
+t_007 = t_008 * pp
+w = t_007
+lbl_000:
+if u < tmp goto lbl_005
+goto lbl_006
+lbl_005:
+u = a
+goto prog_end
+lbl_006:
+u = b
+prog_end:
